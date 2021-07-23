@@ -5,4 +5,7 @@ package cn.luziyangde.test;
  * @date 2021/07/23
  **/
 public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
